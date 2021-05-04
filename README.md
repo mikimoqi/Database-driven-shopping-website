@@ -9,5 +9,11 @@ A web-based Online Shopping System for Database Design Practices based on the **
 * **Backend:** Java Servlets, Java Models, MS SQL (Database)
 * **Security Features:** SQL Injection
 
+## Features
 
-The backend of the website is completed using Java servlet to connect to the JDBC API MS SQL Server. It act as the Controller in MVC pattern to redirect HTTP request. The front-end GUI view is completed using JSP. The files can be run against docker. The documentation is attached as an instruction to guide through the application.  
+
+| Features        | 
+| ------------- |
+| col 3 is      |
+| col 2 is      | 
+| zebra stripes | 
