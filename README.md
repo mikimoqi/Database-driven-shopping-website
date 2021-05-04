@@ -73,7 +73,7 @@ Upload a photo to file system for product
 OR: Upload a photo to database for product				
 Database restore with SQL script				
 Add/update warehouse, customer				
-				
+|--------------------|			
 			
 			
 
