@@ -6,7 +6,7 @@ A web-based Online Shopping System for Database Design Practices based on the **
 ## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript, Jquery, Java Server Pages (JSPs), AJAX 
-* **Backend:** Java Servlets, Java Models, MS SQL (Database)
+* **Backend:** Java Servlets, Java Models, MS SQL (Database), JDBC, Apache 
 * **Security Features:** SQL Injection
 
 ## Features
